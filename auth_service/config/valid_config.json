@@ -1,0 +1,5 @@
+{
+    "dbConnectionString": "connectionString",
+    "port": 8080,
+    "tokenExpiration": 180
+}

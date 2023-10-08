@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "path": "auth_service"
+    },
+    {
+      "path": "company_service"
+    },
+    {
+      "path": "custom_logger"
+    },
+    {
+      "path": "xm_token"
+    }
+  ]
+}

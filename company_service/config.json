@@ -1,0 +1,5 @@
+{
+    "dbConnectionString": "mongodb+srv://webscrapper:WebScrapper123@cluster0.xzvihm7.mongodb.net/?retryWrites=true&w=majority",
+    "port": 8080,
+    "databaseName":"xm_assingment"
+}
